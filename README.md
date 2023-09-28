@@ -1,1 +1,2 @@
 # Face-Detection
+In this project, I strived to implement a customized tiny yolov3 to detect faces in an image. This implementation comprises a train loop without the help of the Keras library and it has been tried to avoid the Keras library and instead use pure TensorFlow. by using this approach, I better realized how Yolo architecture works.
